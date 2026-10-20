@@ -4,6 +4,12 @@
 
 Set **bits 2 - 4** to disable seatbelt chime.
 
+# 120kmh speed warning
+### Byte 0
+![Bit 6](/common/svg/bitSelectBit6.svg)
+
+Set **Bit 6** to enable the warning, unset to disable.
+
 # Needle Sweep / Gauge Needle Test
 ### Byte 1
 ![Bit 0](/common/svg/bitSelectBit0.svg)
